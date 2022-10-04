@@ -11,6 +11,9 @@ img {
 }
 .hobbies {
   background-color: red;
+  font-weight: bold;
+  font-family: "Times New Roman";
+  color: white;
 }
 .Section1 {
   background-color: antiquewhite;
@@ -22,6 +25,7 @@ img {
   background-color: black;
   color: white;
 }
+
 h1,
 h2 {
   text-align: center;
